@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou o Matheus
 
 💻 Desenvolvedor Web com foco em aplicações seguras  
-🔐 Especialista em Segurança da Informação (Blue Team)  
+🔐 Segurança da Informação (Blue Team)  
 🚀 Crio soluções com HTML, CSS, JavaScript, Python e SQL  
 🛡️ Atuo com hardening, defesa ativa, análise de ameaças e conscientização de usuários  
 

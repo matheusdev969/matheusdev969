@@ -42,9 +42,11 @@
 ---
 
 ### 🔗 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
-📫 Email: seuemail@dominio.com  
-🌐 Portfólio: [seusite.com](https://seusite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/
+matheus-zipper-antunes-864273298
+)  
+📫 Email: matheuszipper65@gmail.com 
+
 
 ---
 
